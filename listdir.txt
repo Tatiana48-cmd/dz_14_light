@@ -1,0 +1,2 @@
+files: listdir.txt, main.py, my_bill.py, my_functions.py, tests.py, victory.py, __init__.py
+dirs: __pycache__
